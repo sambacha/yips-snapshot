@@ -1,5 +1,5 @@
 {
-  "name": "starter-dapp",
+  "name": "@yfi/yips-snapshot",
   "version": "0.1.0",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -77,5 +77,5 @@
     "sass-loader": "^8.0.2"
   },
   "license": "MIT",
-  "repository": "balancer-labs/snapshot"
+  "repository": "sambacha/yips-snapshot"
 }
